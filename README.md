@@ -1,0 +1,2 @@
+# Description of Sales-analysis-sql-
+Orchestrated the development of a comprehensive sales report data table by merging three tables using advanced join queries; streamlined data analysis process and reduced reporting time by 50% I filtered data with advanced queries and subqueries, focusing on categorization by income levels and specific requirements. This project showcased my SQL expertise in data manipulation, table creation, and precise analysis, highlighting my ability to translate complex data into actionable insights.
